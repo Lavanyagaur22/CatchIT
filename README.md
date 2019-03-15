@@ -1,4 +1,4 @@
-# CatchIT
+# CatchIT - a secret spy for your device ;)
 An Android application made using the **Device Administration API** for the security of the user's device.
 
 Screenshots of the app are attached below :-
